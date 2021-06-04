@@ -1,0 +1,25 @@
+{
+  "type": "panel",
+  "name": "Temp zip catch",
+  "id": "id-template-zip-catchment",
+  "dataFormats": ["table"],
+  "info": {
+    "description": "Template zip catch",
+    "author": {
+      "name": "Nam Le"
+    },
+    "keywords": [],
+    "logos": {
+      "small": "img/oecatch.svg",
+      "large": "img/oecatch.svg"
+    },
+    "screenshots": [],
+    "version": "%VERSION%",
+    "updated": "%TODAY%"
+  },
+
+  "dependencies": {
+    "grafanaVersion": "6.3.x",
+    "plugins": []
+  }
+}
